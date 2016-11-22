@@ -1,0 +1,168 @@
+{
+  "basics": {
+    "name": "Mattia Spinelli",
+    "label": "Programmer",
+    "picture": "",
+    "email": "matt.321null@gmail.com",
+    "phone": " +44 07922729659",
+    "website": "https://webme-thingy.herokuapp.com/",
+    "summary": "Im a full-stack Javascript Developer at Founders and Coders CIC, currently building web and mobile application using NodeJS, React and Cordova/PhoneGap. I'm interested in functional programming and I've been practising it in Javascript mainly, and occasionally in Haskell. After studying electrical engineering I realised that learning C as part of my uni curriculum, was the most fun part of it and I decided to become a developer. I encountered Javascript for the first time 2 and a half years ago and I built an MVP for a startup with it. In June I decided to leave the startup and come to London to learn more about web technologies, and to find challanging project to join.",
+    "location": {
+      "address": "94 Pennyfields",
+      "postalCode": "E14 8HS",
+      "city": "London",
+      "countryCode": "UK",
+      "region": "London"
+    },
+    "profiles": [
+      {
+        "network": "Github",
+        "username": "daymos",
+        "url": "https://github.com/daymos"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Founders and Coders CIC",
+      "position": "Fullstack developer",
+      "website": "http://www.foundersandcoders.com/",
+      "startDate": "2016-06-01",
+      "summary": "Founders and Coders is a web agency and a coding bootcamp. I am now working as a fullstack developer for FAC customers.",
+      "highlights": [
+        "Build the prototype of a mobile application for the NHS using Cordova/PhoneGap",
+        "Built and npm module (audiobuffer-promisified) around HTML5 AudioBuffer",
+        "Worked with image recognition technology"
+      ]
+    },
+    {
+      "company": "3doers Srl",
+      "position": "Developer and CTO",
+      "website": "offline now",
+      "startDate": "2014-11-01",
+      "endDate": "2016-05-01",
+      "summary": "I built the prototype for a 3dprinter sharing service. After the project received funding I worked there as CTO. I contracted developers and designer and help to coordinate their work.",
+      "highlights": [
+        "Built a module to analyse .stl fiels and a formula to estimate printing costs",
+        "Supervised the developlement of the whole platform"
+      ]
+    },
+    {
+      "company": "ERA SpA",
+      "position": "Export Area Manager",
+      "website": "http://www.Eraspares.it",
+      "startDate": "2009-10-01",
+      "endDate": "2013-02-01",
+      "summary": "This company is an international trader of electrical spare parts. After and initial training phase I worked as Export Area manager.",
+      "highlights": [
+        "Maintain and improve business relationship with out customers in the Middle East",
+        "Build a Macro for Windows to automatise data entry"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "wetoom",
+      "position": "developer/SEO",
+      "website": "offline now",
+      "startDate": "2012-01-01",
+      "endDate": "2013-04-01",
+      "summary": "Sharing economy blogging platform. I helped them to build this blog and to optimise it on search engines"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Polytechnic University of Turin",
+      "area": "Electric Engineering",
+      "studyType": "Bachelor",
+      "startDate": "2011-06-01",
+      "endDate": "2014-05-01",
+      "gpa": "4.0",
+      "courses": [
+        "Calculus I",
+        "Calculus II",
+        "Calculus III",
+        "General Chemistry",
+        "Industrial Design",
+        "Power Electronics",
+        "Circuit Theory",
+        "Phylosophy of Science",
+        "Phisycs I",
+        "Phisycs II",
+        "Structural Mechanics",
+        "Linear Algebra",
+        "Electricl Systems and Safety",
+        "Information Technology I",
+        "C Language",
+        "Rotating Machines",
+        "Electronic Measurments",
+        "Material Science",
+        "Computer-Assisted design"
+      ]
+    },
+    {
+      "institution": "University of Turin",
+      "area": "Litterature",
+      "studyType": "Bachelor",
+      "startDate": "2005-06-01",
+      "endDate": "2008-10-01",
+      "gpa": "5.0"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript",
+        "NodeJS",
+        "ReactJS",
+        "ES6",
+        "Babel",
+        "GIT",
+        "TDD",
+        "PostgreSQL",
+        "Redis",
+        "Functional Programming",
+        "tasks runners - Grunt/Webpack"
+      ]
+    },
+    {
+      "name": "Software development",
+      "keywords": [
+        "C language",
+        "R language",
+        "Python"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "Italian",
+      "fluency": "Native Speaker"
+    },
+    {
+      "language": "German",
+      "fluency": "Intermediate"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Beginner"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Spare time",
+      "keywords": [
+        "Biking",
+        "Photography",
+        "Machine Learning"
+      ]
+    }
+  ]
+}
