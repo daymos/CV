@@ -24,10 +24,21 @@
   },
   "work": [
     {
+      "company": "Moogsoft",
+      "position": "UI developer",
+      "website": "http://www.moogsoft.com/",
+      "startDate": "2017-01-20",
+      "summary": "Moogsoft is a startup focused on IT systems event managment. Our product 'Incident' uses AI to cluster allerts and help to manage large distributed IT systems. Among our customers, Yahoo, goDaffy and other.",
+      "highlights": [
+        "I am Helping debugging and improving the product for a  major released, planned in March.",
+        "Working with latest framework, such as Vue.js and Rxjs"
+      ]
+    },{
       "company": "Founders and Coders CIC",
       "position": "Fullstack developer",
       "website": "http://www.foundersandcoders.com/",
       "startDate": "2016-06-01",
+      "endDate": "2017-01-10",
       "summary": "Founders and Coders is a web agency and a coding bootcamp. I am now working as a fullstack developer for FAC customers.",
       "highlights": [
         "Build the prototype of a mobile application for the NHS using Cordova/PhoneGap",
