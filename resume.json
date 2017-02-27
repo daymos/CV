@@ -6,7 +6,7 @@
     "email": "matt.321null@gmail.com",
     "phone": " +44 07922729659",
     "website": "https://webme-thingy.herokuapp.com/",
-    "summary": "Im a full-stack Javascript Developer at Founders and Coders CIC, currently building web and mobile application using NodeJS, React and Cordova/PhoneGap. I'm interested in functional programming and I've been practising it in Javascript mainly, and occasionally in Haskell. After studying electrical engineering I realised that learning C as part of my uni curriculum, was the most fun part of it and I decided to become a developer. I encountered Javascript for the first time 2 and a half years ago and I built an MVP for a startup with it. In June I decided to leave the startup and come to London to learn more about web technologies, and to find challanging project to join.",
+    "summary": "Im a full-stack Javascript Developer, currently working as a UI developer at Mogsoft, where I am helping to build the UI for a next generation MoM. Before coming here I worked as a fullstack manager at Founders and Coders CIC,  building web and mobile application with NodeJS, React and Cordova/PhoneGap. I'm interested in functional programming and I've been practising it in Javascript mainly, and occasionally in Haskell. After studying electrical engineering I realised that learning C as part of my uni curriculum, was the most fun part of it and I decided to become a developer. I encountered Javascript for the first time 2 and a half years ago and I built an MVP for a startup with it. In June I decided to leave the startup and come to London to learn more about web technologies, and to find challanging project to join.",
     "location": {
       "address": "94 Pennyfields",
       "postalCode": "E14 8HS",
@@ -28,7 +28,7 @@
       "position": "UI developer",
       "website": "http://www.moogsoft.com/",
       "startDate": "2017-01-20",
-      "summary": "Moogsoft is a startup focused on IT systems event managment. Our product 'Incident' uses AI to cluster allerts and help to manage large distributed IT systems. Among our customers, Yahoo, goDaffy and other.",
+      "summary": "Moogsoft is a startup focused on IT systems event managment. Our product 'Incident' uses AI to cluster allerts and help to manage large distributed IT systems. Among our customers, Yahoo, goDaddy and others.",
       "highlights": [
         "I am Helping debugging and improving the product for a  major released, planned in March.",
         "Working with latest framework, such as Vue.js and Rxjs"
